@@ -1,6 +1,6 @@
 import math
 """
-calc_sin: input var, l, scale
+calc_sin: input var, l, scale, ssffsf
 """
 def calc_sin(var, L, scale):
     sine_results = []
