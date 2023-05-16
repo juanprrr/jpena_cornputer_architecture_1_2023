@@ -74,6 +74,7 @@ def linear_transformation(width:int, hsize:int, Lx:int, Ly:int, gray_list:list, 
 if __name__ == "__main__":
     image_path = "scripts-procesamiento/barbara.jpg"
     width, hsize = 300, 300
+    print(width)
     Lx = 80
     Ly = 80
     gray_list = rgbToGray(image_path)
